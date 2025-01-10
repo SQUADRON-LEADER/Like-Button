@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/SQUADRON-LEADER.github.io/React-Like-Button",
+  "homepage": "https://SQUADRON-LEADER.github.io/Like-Button/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
