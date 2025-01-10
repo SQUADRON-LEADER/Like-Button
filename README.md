@@ -114,11 +114,4 @@ react-state-class/
 
 Contributions are welcome! If you'd like to contribute, fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to reach out for any suggestions or improvements!
-
+# THANKYOU FOR REACHING OUT!
